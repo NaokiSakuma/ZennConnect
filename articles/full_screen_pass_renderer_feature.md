@@ -351,6 +351,11 @@ public class FullScreenPassRendererFeature : ScriptableRendererFeature
 
 `FullScreenPassRendererFeature.cs`と`FullScreenRenderPass.cs`にわかれています。
 
+# 環境
+
+Unity2022.2.0b16
+Universal RP 14.0.3
+
 # FullScreenPassRendererFeature
 
 ## inspector上で操作可能な変数
